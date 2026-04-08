@@ -1,7 +1,7 @@
 # =============================================================
 # dev-eval-toolkit | LuxDev - Education & Emploi
 # Script 01 : Simulation des données
-# Auteur : Serge-Alain | github.com/sanyamsin
+# Auteur : Serge-Alain NYAMSIN | github.com/sanyamsin
 # Date : Avril 2026
 # =============================================================
 # Contexte : Évaluation d'impact d'un programme de formation
