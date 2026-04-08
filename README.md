@@ -20,24 +20,25 @@ standards (OCDE/CAD) combinées aux outils modernes de data science.
 ---
 
 ## 🗂️ Structure du projet
-dev-eval-toolkit/
-├── data/
-│   └── programme_data.csv        # Données simulées (1000 bénéficiaires)
-├── R/
-│   ├── 01_data_simulation.R      # Simulation des données
-│   ├── 02_descriptive_stats.R    # Statistiques descriptives
-│   ├── 03_psm_analysis.R         # Propensity Score Matching
-│   ├── 04_did_analysis.R         # Difference-in-Differences
-│   └── 05_visualizations.R       # Visualisations complémentaires
-├── reports/
-│   ├── evaluation_report.Rmd     # Rapport RMarkdown
-│   ├── evaluation_report.html    # Rapport HTML généré
-│   ├── graphique_revenu.png      # Évolution du revenu
-│   ├── graphique_emploi.png      # Évolution du taux d'emploi
-│   ├── graphique_did.png         # Graphique DiD
-│   └── love_plot_psm.png         # Équilibre PSM
-└── sql/
-└── indicators_queries.sql    # Requêtes SQL suivi indicateurs
+
+    dev-eval-toolkit/
+    ├── data/
+    │   └── programme_data.csv        # Données simulées (1000 bénéficiaires)
+    ├── R/
+    │   ├── 01_data_simulation.R      # Simulation des données
+    │   ├── 02_descriptive_stats.R    # Statistiques descriptives
+    │   ├── 03_psm_analysis.R         # Propensity Score Matching
+    │   ├── 04_did_analysis.R         # Difference-in-Differences
+    │   └── 05_visualizations.R       # Visualisations complémentaires
+    ├── reports/
+    │   ├── evaluation_report.Rmd     # Rapport RMarkdown
+    │   ├── evaluation_report.html    # Rapport HTML généré
+    │   ├── graphique_revenu.png      # Évolution du revenu
+    │   ├── graphique_emploi.png      # Évolution du taux d'emploi
+    │   ├── graphique_did.png         # Graphique DiD
+    │   └── love_plot_psm.png         # Équilibre PSM
+    └── sql/
+        └── indicators_queries.sql    # Requêtes SQL suivi indicateurs
 ---
 
 ## 🔬 Méthodes d'évaluation
