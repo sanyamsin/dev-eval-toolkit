@@ -1,7 +1,7 @@
 # =============================================================
 # dev-eval-toolkit | LuxDev - Education & Emploi
 # Script 02 : Statistiques descriptives
-# Auteur : Trésor Sany | github.com/sanyamsin
+# Auteur : Serge-Alain NYAMSIN | github.com/sanyamsin
 # Date : Avril 2026
 # =============================================================
 
