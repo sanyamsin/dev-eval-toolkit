@@ -2,7 +2,22 @@
 
 > Boîte à outils pour l'évaluation d'impact des projets et programmes de développement
 
-Développé par **Serge-Alain NYAMSIN** — Expert Évaluation & Data Science  
+## 📄 Rapport d'évaluation
+
+[![PDF](https://img.shields.io/badge/Rapport-PDF-red)](reports/evaluation_report.pdf)
+[![HTML](https://img.shields.io/badge/Rapport-HTML-blue)](reports/evaluation_report.html)
+
+**[→ Télécharger le rapport PDF complet](reports/evaluation_report.pdf)**
+
+Le rapport couvre :
+- **1 000 bénéficiaires** simulés - programme formation professionnelle Niger
+- **Propensity Score Matching (PSM)** - effet causal de la formation
+- **Difference-in-Differences (DiD)** - robustesse des résultats
+- **Résultats clés** : +18 pts d'emploi, +25 000 FCFA de revenu mensuel
+
+> Rapport reproductible généré avec RMarkdown — méthodes OCDE/CAD standard.
+
+Développé par **Serge-Alain NYAMSIN** - Expert Évaluation & Data Science  
 🔗 [github.com/sanyamsin](https://github.com/sanyamsin)
 
 ---
